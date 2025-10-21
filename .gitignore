@@ -1,0 +1,10 @@
+*.iml
+.idea/
+out/
+build/
+dist/
+template/
+.gradle/
+*.class
+.DS_Store
+__MACOSX/
